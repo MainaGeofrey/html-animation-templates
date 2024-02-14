@@ -1,7 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2024 Geofrey Maina (https://codepen.io/Geofrey-Maina/pen/vYPaONa)
-Fork of an original work Split Screen (https://codepen.io/Geofrey-Maina/pen/vYPaONa)
+Copyright (c) 2024 Geofrey Maina (https://codepen.io/Geofrey-Maina/pen/WNmKvYw)
+Fork of an original work Split Screen Layout Cerveza Corona Extra (https://codepen.io/Geofrey-Maina/pen/WNmKvYw)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

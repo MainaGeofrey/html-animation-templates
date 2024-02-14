@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+input {
+  width: 120px;
+  border: solid #ccc 1px;
+  padding: 6px;
+  text-align: right;
+}
+button {
+  text-transform: uppercase;
+  padding: 6px;
+  cursor: pointer;
+}
+.iframe1 {
+  width: 480px;
+  height: 667px;
+  border: solid #000 2px;
+  margin: 10px 0;
+}
+.iframe2 {
+  width: 1024px;
+  height: 667px;
+  border: solid #000 2px;
+  margin: 10px 0;
+}
